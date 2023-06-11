@@ -1,9 +1,5 @@
 {
-  "pages": [
-    "pages/index/index",
-    "pages/search/search",
-    "pages/about/about"
-  ],
+  "pages": ["pages/index/index", "pages/search/search", "pages/about/about"],
   "tabBar": {
     "color": "#7A7E83",
     "selectedColor": "#1890ff",
@@ -33,7 +29,7 @@
   "window": {
     "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "轩陌博客",
+    "navigationBarTitleText": "大康博客",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",
